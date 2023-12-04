@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains a Jupyter Notebook (`analysis.ipynb`) and a dataset (`smartphones.csv`) for a comprehensive data analysis on an e-commerce website, focusing on smartphone products. The analysis aims to uncover insights into various aspects of the smartphone offerings, including pricing, customer reviews, and brand performance.
+This repository contains a Jupyter Notebook (`analysis.ipynb`) and a dataset (`smartphones.csv`) for a comprehensive data analysis on [Jumia](https://jumia.co.ke), focusing on smartphone products. The analysis aims to uncover insights into various aspects of the smartphone offerings, including pricing, product features, customer reviews, and brand performance.
 
 ## Files
 
