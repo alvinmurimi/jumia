@@ -17,15 +17,6 @@ This repository contains a Jupyter Notebook (`analysis.ipynb`) and a dataset (`s
 
 - **Brand Performance**: The analysis delves into the performance of different smartphone brands, highlighting key metrics such as average ratings, pricing, and market share.
 
-## Usage
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/alvinmurimi/jumia.git
-
-2. Open and run the Jupyter Notebook:
-   ```bash
-   jupyter notebook analysis.ipynb
 
 ## Dependencies
 
@@ -38,7 +29,14 @@ The analysis is built using Python and Jupyter Notebook, relying on the librarie
 - **seaborn**: A data visualization library based on matplotlib, providing additional functionality and improved aesthetics.
 - **textblob**: A library for processing textual data, including sentiment analysis using the Naive Bayes classifier.
 
-To install these dependencies, you can use the following command:
+To install these dependencies along with Jupyter, you can use the following command:
 
 ```bash
-pip install bs4 pandas numpy matplotlib seaborn textblob
+pip install jupyter bs4 pandas numpy matplotlib seaborn textblob
+```
+## Usage
+
+```bash
+git clone https://github.com/alvinmurimi/jumia.git
+cd jumia
+jupyter notebook analysis.ipynb
