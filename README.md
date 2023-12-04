@@ -11,7 +11,7 @@ This repository contains a Jupyter Notebook (`analysis.ipynb`) and a dataset (`s
 
 ## Analysis Highlights
 
-- **Data Exploration**: The Jupyter Notebook explores the dataset, providing insights into key features such as pricing, display sizes, and customer reviews.
+- **Data Exploration**: The Jupyter Notebook explores the dataset, providing insights into key features such as pricing, RAM and ROM, battery, display sizes, and customer reviews.
 
 - **Visualizations**: Various visualizations, including histograms, scatter plots, and radar charts, are utilized to present a clear understanding of the data.
 
