@@ -6,8 +6,8 @@ This repository contains a Jupyter Notebook (`analysis.ipynb`) and a dataset (`s
 
 ## Files
 
-- **analysis.ipynb**: Jupyter Notebook containing the data analysis code and visualizations.
-- **smartphones.csv**: CSV file containing the dataset used for the analysis.
+- **[analysis.ipynb](analysis.ipynb)**: Jupyter Notebook containing the code and visualizations for the data analysis.
+- **[smartphones.csv](smartphones.csv)**: CSV file containing the dataset used for the analysis.
 
 ## Analysis Highlights
 
