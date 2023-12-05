@@ -15,7 +15,7 @@ This repository contains a Jupyter Notebook (`analysis.ipynb`) and a dataset (`s
 
 - **Visualizations**: Various visualizations, including histograms, scatter plots, and radar charts, are utilized to present a clear understanding of the data.
 
-- **Brand Performance**: The analysis delves into the performance of different smartphone brands, highlighting key metrics such as average ratings, pricing, and market share.
+- **Brand Performance**: The analysis delves into the performance of different smartphone brands, highlighting key metrics such as average ratings, pricing and so forth.
 
 
 ## Dependencies
