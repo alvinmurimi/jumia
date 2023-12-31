@@ -32,7 +32,7 @@ The analysis is built using Python and Jupyter Notebook, relying on the librarie
 To install these dependencies along with Jupyter, you can use the following command:
 
 ```bash
-pip install jupyter bs4 pandas numpy matplotlib seaborn textblob
+pip install jupyter bs4 pandas numpy matplotlib seaborn
 ```
 ## Usage
 
